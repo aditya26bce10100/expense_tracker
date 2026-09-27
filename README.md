@@ -65,8 +65,8 @@ check python version
 ```.
 2. Make a copy of this repository
 ```.
-copy git url
-enter expense tracker
+git clone <https://github.com/aditya26bce10100/expense_tracker.git>
+cd expense_tracker
 ```.
 3. Execute the application:
 ```.
