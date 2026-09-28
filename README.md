@@ -99,7 +99,7 @@ Run Unit Tests for Python Script.
 The tests pertaining to the `file_handler` should never be running into a temporary file.
 affects your actual `data/expenses.csv` file.
 
-#Testing manuaelly.
+#Testing manually.
 1. Execute the command: python3 main.py.
 2. Select option `1` and add 3-4 expenses across various categories.
 Such as food, travel, bills.
